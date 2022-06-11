@@ -4,6 +4,7 @@ __A VSCode theme by [raer0](https://github.com/raer0/).__
 
 __Inspired by [Atom IDE Dark Syntax](https://github.com/ryanolsonx/atom-ide-dark-syntax).__
 ___
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/raer0/codium-dark-syntax?display_name=tag&logo=github&sort=semver&style=flat-square&color=blue)![GitHub](https://img.shields.io/github/license/raer0/codium-dark-syntax?color=blue&style=flat-square)![Open VSX Downloads](https://img.shields.io/open-vsx/dt/raer0/codium-dark-syntax?color=darkgreen&label=OpenVSX%20Downloads&style=flat-square)![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/raer0.codium-dark-syntax?label=VSCode%20Installs&style=flat-square)
 
 ## 0. Preamble
 
