@@ -1,6 +1,7 @@
 # Codium Dark Syntax <!-- omit from toc -->
 
 __A VSCode theme by [raer0](https://github.com/raer0/).__
+
 __Inspired by [Atom IDE Dark Syntax](https://github.com/ryanolsonx/atom-ide-dark-syntax).__
 ___
 
@@ -12,7 +13,7 @@ ___
 
 - [0. Preamble](#0-preamble)
 - [1. Recommendations](#1-recommendations)
-- [2. Screenshots](#2-screenshots)
+- [2. Screenshot](#2-screenshot)
 - [3. Special Thanks](#3-special-thanks)
 
 ___
@@ -21,9 +22,7 @@ ___
 
 [Syntax Highlighter](https://github.com/EvgeniyPeshkov/syntax-highlighter) is highly recommended, and indluded as a dependency by default.
 
-## 2. Screenshots
-
-The real meat of it all. Here are a few screenshots showcasing the theme. Semantic highlighting is provided by [Syntax Highlighter](https://github.com/EvgeniyPeshkov/syntax-highlighter)
+## 2. Screenshot
 
 ![Screenshot #1](.wiki/img/screenshot-01.png)
 

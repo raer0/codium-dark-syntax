@@ -34,5 +34,18 @@
         "path": "./themes/codium-dark-syntax-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "Atom",
+    "Atom IDE",
+    "Atom One Dark",
+    "Atom IDE Dark Syntax",
+    "Atom Dark Syntax",
+    "Atom One Dark Pro",
+    "Theme",
+    "Dark Theme",
+    "Purple Theme",
+    "Purple",
+    "Dark"
+  ]
 }
