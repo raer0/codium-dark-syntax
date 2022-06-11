@@ -8,6 +8,7 @@ ___
 ## 0. Preamble
 
 [Atom](https://github.com/atom/atom/) was my favorite editor/IDE for a long time. I grew quite fond of the Atom IDE Dark Syntax theme - to the point where I dug through an old hard drive to find a copy when the author temporarily removed the repo. So, making VSCode feel like Atom was paramount for me to [accept Atom's fate](https://github.blog/2022-06-08-sunsetting-atom/). With [this theme's namesake](https://vscodium.com/) I can at least take advantage of Microsoft's offering without giving them any telemetry. And with this theme and some custom keybinds... I guess I can accept VSCode into my workflow.
+___
 
 ## Table of Contents <!-- omit from toc -->
 
@@ -20,11 +21,17 @@ ___
 
 ## 1. Recommendations
 
-[Syntax Highlighter](https://github.com/EvgeniyPeshkov/syntax-highlighter) is highly recommended, and indluded as a dependency by default.
+The following VSCode extensions are highly recommended, and included by this theme as dependencies.
+
+- [Syntax Highlighter](https://github.com/EvgeniyPeshkov/syntax-highlighter)
+- [file-icons](https://github.com/file-icons/vscode)
+
+___
 
 ## 2. Screenshot
 
 ![Screenshot #1](.wiki/img/screenshot-01.png)
+___
 
 ## 3. Special Thanks
 

@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/raer0/codium-dark-syntax/blob/main/README.md",
   "extensionDependencies": [
-    "evgeniypeshkov.syntax-highlighter"
+    "evgeniypeshkov.syntax-highlighter",
+    "file-icons.file-icons"
   ],
   "categories": [
     "Themes"
