@@ -2,7 +2,7 @@
   "name": "codium-dark-syntax",
   "displayName": "Codium Dark Syntax",
   "description": "A VSCodium/VSCode theme based off Atom IDE Dark Syntax",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.68.0"
   },
@@ -48,5 +48,6 @@
     "Purple Theme",
     "Purple",
     "Dark"
-  ]
+  ],
+  "icon": ".wiki/img/icon.png"
 }
