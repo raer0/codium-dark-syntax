@@ -1,0 +1,25 @@
+name: Grab the vsix.
+
+on:
+  workflow_dispatch:
+  pull_request:
+    types: ["opened"]
+  
+
+jobs:
+  build:
+    name: create package.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 14
+      - run: npm ci
+      - run: npm install -g vsce
+      - run: vsce package
+#       - uses: actions/upload-artifact@v3
+#         with:
+#           name: codium-dark-syntax-latest.vsix
+#           path: ./*.vsix
+
